@@ -2,5 +2,5 @@ Hello, World!!
 
 ## cheatsheet
 [link](https://commonmark.org/help/)
-## Panda
+## lab1_report
 [link](./lab1_report.md)
