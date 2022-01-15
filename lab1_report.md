@@ -14,10 +14,11 @@ You will get a page like this when you successfully install.
 ![15lab1_3](https://user-images.githubusercontent.com/97651152/149599780-47e45206-23e9-4db8-a368-15634cd45681.png)
 
 ## Moving Files with scp
-![15lab1_4 1](https://user-images.githubusercontent.com/97651152/149600091-dcd1ea26-ab37-4e02-ade8-e932495fe264.png)
+![15lab1_4](https://user-images.githubusercontent.com/97651152/149601409-7ae67afe-a565-46f4-a3e8-ef43e86c444b.png)
 
 ## Setting an SSH Key
 ![15lab1_5](https://user-images.githubusercontent.com/97651152/149600496-7a4ea41a-4796-480c-a1c3-37180676c250.png)
 
 ## Optimizing Remote Running
+![15lab1_6](https://user-images.githubusercontent.com/97651152/149601589-1f8c13ce-05c1-4b17-b8b1-64f73146a6bd.png)
 
