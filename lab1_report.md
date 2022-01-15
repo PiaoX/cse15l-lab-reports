@@ -1,14 +1,23 @@
-##Lab1 Report
+# Lab1 Report - how to log into a course-specific account on ieng6
+
+## Installing VScode
+Go to Website https://code.visualstudio.com/ and download VS code.
+You will get a page like this when you successfully install.
+
+![15lab1_1](https://user-images.githubusercontent.com/97651152/149599479-36860c75-4c85-484a-a169-93aea8811b5c.png)
 
 
-# The Panda Evolution
+## Remotely Connecting
+![15lab1_2](https://user-images.githubusercontent.com/97651152/149599453-a2f357f6-1ce8-47a9-a2ab-cabfb8114122.png)
 
-## Infant
-![image](https://vid.alarabiya.net/images/2020/07/22/e32b4dc2-49fc-4cd7-bcc0-df409773f05e/e32b4dc2-49fc-4cd7-bcc0-df409773f05e_16x9_1200x676.JPG?width=1138)
-## Bigger
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9SWbXpJT7i_JRbXVGwoEJGboZ0SBUX1Wv1HbiE4sRqLUkGuiJQEZ9fvrAOL4-9WOhmI&usqp=CAU)
-## Bigger
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdpACdr5C04Y7Pa2d-4wgrzvMmy4q_O-a643Iga0z6P8yqkP4iaD_7KpKhn-6E4JVQkU&usqp=CAU)
-## Now It's Me
-![image](https://lp-cms-production.imgix.net/features/2019/06/panda-d55d15231c4f.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850)
+## Trying Some Commands
+![15lab1_3](https://user-images.githubusercontent.com/97651152/149599780-47e45206-23e9-4db8-a368-15634cd45681.png)
+
+## Moving Files with scp
+![15lab1_4 1](https://user-images.githubusercontent.com/97651152/149600091-dcd1ea26-ab37-4e02-ade8-e932495fe264.png)
+
+## Setting an SSH Key
+![15lab1_5](https://user-images.githubusercontent.com/97651152/149600496-7a4ea41a-4796-480c-a1c3-37180676c250.png)
+
+## Optimizing Remote Running
 
