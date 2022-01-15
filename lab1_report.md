@@ -43,6 +43,6 @@ Once you succeed, you will not need to enter password to login your account on t
 ## Optimizing Remote Running
 Now use what you learn to optimizing remote running.Try this:
   $ ssh cs15lwi22aoz@ieng6.ucsd.edu "ls"
- See what happens!
+* See what happens!
 ![15lab1_6](https://user-images.githubusercontent.com/97651152/149601589-1f8c13ce-05c1-4b17-b8b1-64f73146a6bd.png)
 
