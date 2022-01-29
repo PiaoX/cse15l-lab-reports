@@ -6,4 +6,4 @@
 2. code2
 ![code2](https://user-images.githubusercontent.com/97651152/151642536-5315f954-9e28-4a70-801c-ed960c8229bf.png)
 3. code3
-![code3](https://user-images.githubusercontent.com/97651152/151647684-665e8fae-a150-47c4-949f-6127cf66eed6.png)
+![code3](https://user-images.githubusercontent.com/97651152/151647702-e584cf20-ceb8-4edd-828d-53c7a88d779e.png)
