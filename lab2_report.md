@@ -2,8 +2,20 @@
 
 ## Three code changes:
 1. code1
-![code1](https://user-images.githubusercontent.com/97651152/151642526-a03bdc70-6d06-4eb5-a3c6-d71dec590dbc.png)
+![code1](https://user-images.githubusercontent.com/97651152/151647934-71a3b073-61b7-4d6f-8641-dcf10ab00de3.png)
+*Failure Output:*
+![code1](https://user-images.githubusercontent.com/97651152/151647822-413ddf78-d51e-434e-a277-17aaf281124f.png>
+*Description*
+
 2. code2
 ![code2](https://user-images.githubusercontent.com/97651152/151642536-5315f954-9e28-4a70-801c-ed960c8229bf.png)
+*Failure Output:*
+
+*Description*
+
+
 3. code3
 ![code3](https://user-images.githubusercontent.com/97651152/151647702-e584cf20-ceb8-4edd-828d-53c7a88d779e.png)
+*Failure Output:*
+
+*Description*
