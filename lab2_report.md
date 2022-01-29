@@ -10,7 +10,7 @@
 The first link is not valid because of the extra parenthesis, so the output of the link is cut before the extra parenthesis. The changes I made is to delete the parenthesis, which gives a correct output.
 
 2. code2
-![code2](https://user-images.githubusercontent.com/97651152/151642536-5315f954-9e28-4a70-801c-ed960c8229bf.png)
+![code2](https://user-images.githubusercontent.com/97651152/151650232-53f937e6-31e6-4d10-97e1-7392eb353312.png)
 *Failure Output:*
 
 
