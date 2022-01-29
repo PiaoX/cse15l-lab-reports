@@ -45,4 +45,7 @@ Now use what you learn to optimizing remote running.Try this:
   $ ssh cs15lwi22aoz@ieng6.ucsd.edu "ls"
 * See what happens!
 ![15lab1_6](https://user-images.githubusercontent.com/97651152/149601589-1f8c13ce-05c1-4b17-b8b1-64f73146a6bd.png)
+We can use semicolons to run multiple commands, also, we can use upper arrow key to recall the last command.
+ Try to use twice upper arrow key and once enter key. Which is total 3 keystrokes:
+![15lab1_61](https://user-images.githubusercontent.com/97651152/151639992-05fde4eb-6816-4743-84c5-74acfa23acf1.png)
 
