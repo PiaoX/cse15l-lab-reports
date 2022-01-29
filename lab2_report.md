@@ -25,4 +25,5 @@ The first link is not valid because of the extra parenthesis, so the output of t
 
 
 *Description:*
+
 There're errors in the code about the uppercase lowercase, which is easy to make it wrong. What we do is to fix the cases by the prompt.
