@@ -21,5 +21,8 @@ The first link is not valid because of the extra parenthesis, so the output of t
 3. code3
 ![code3](https://user-images.githubusercontent.com/97651152/151647702-e584cf20-ceb8-4edd-828d-53c7a88d779e.png)
 *Failure Output:*
+![code3](https://user-images.githubusercontent.com/97651152/151650833-18687817-1a41-4e0e-bed8-d759b86c1861.png)
+
 
 *Description:*
+There're errors in the code about the uppercase lowercase, which is easy to make it wrong. What we do is to fix the cases by the prompt.
