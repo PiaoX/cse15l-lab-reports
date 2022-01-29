@@ -6,6 +6,7 @@
 *Failure Output:*
 ![code1](https://user-images.githubusercontent.com/97651152/151647822-413ddf78-d51e-434e-a277-17aaf281124f.png)
 *Description:*
+
 The first link is not valid because of the extra parenthesis, so the output of the link is cut before the extra parenthesis. The changes I made is to delete the parenthesis, which gives a correct output.
 
 2. code2
