@@ -24,13 +24,13 @@ For Example, To log into ieng6, we can do this:
 ssh nameofHost
 ```
 
-* You will successfully log in the username you just set:
+* You will successfully log into the server you just set:
 ![iamge](https://user-images.githubusercontent.com/97651152/153691933-1f00d044-038a-42f6-8bea-306b4f522c98.png)
 
 ## scp command
 * Try scp command:
 ```
-scp filetocope hostYouChoose
+scp fileToCopy hostYouChoose
 ```
 * You will copy the file to the server simply and quickly:
 
