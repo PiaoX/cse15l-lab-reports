@@ -24,7 +24,7 @@ ssh nameofHost
 * Try scp command:
 scp filetocope hostYouChoose
 
-*You will copy the file to the server simply and quickly:
+* You will copy the file to the server simply and quickly:
 
 ![iamge](https://user-images.githubusercontent.com/97651152/153691911-f4a2e805-97df-4aff-a396-51b115530602.png)
 
