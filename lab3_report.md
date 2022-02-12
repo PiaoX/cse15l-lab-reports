@@ -6,6 +6,7 @@
 
 * Inside the file, we can edit it like
 
+
    Host nameofHost
    
        HostName nameofHostName
