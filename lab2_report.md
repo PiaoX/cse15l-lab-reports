@@ -7,7 +7,7 @@
 
 *Link to test file*
 
-https://github.com/PiaoX/markdown-parse/commit/72bd27e7d0e14c304495e2b582fd86364d0f128f
+[code1](https://github.com/PiaoX/markdown-parse/commit/72bd27e7d0e14c304495e2b582fd86364d0f128f)
 
 *Failure Output:*
 
@@ -23,7 +23,7 @@ There's an error that an infinite loop occures for a test file, because there wa
 
 *Link to test file*
 
-https://github.com/PiaoX/markdown-parse/commit/2e21973b9c795cfe4b586ab1b0429c09d3f54693
+[code2](https://github.com/PiaoX/markdown-parse/commit/2e21973b9c795cfe4b586ab1b0429c09d3f54693)
 
 *Failure Output:*
 
@@ -40,7 +40,7 @@ The first link is not valid because of the extra parenthesis, so the output of t
 
 *Link to test file*
 
-https://github.com/PiaoX/markdown-parse/commit/72bd27e7d0e14c304495e2b582fd86364d0f128f
+[code3](https://github.com/PiaoX/markdown-parse/commit/72bd27e7d0e14c304495e2b582fd86364d0f128f)
 
 *Failure Output:*
 
