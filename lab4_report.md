@@ -1,13 +1,15 @@
 # Lab4 Report - Markdown snippets
 ## Links:
-1. **Implementation**
+1. **My Implementation**
+[My markdown-parse](https://github.com/mramada22/markdown-parse)
 2. **Reviewed Implementation**
+[Reviewed markdown-parse](https://github.com/PiaoX/markdown-parse)
 
 ## Snippet 1:
-1. **Implementation**
+1. **My Implementation**
 
 * *Preview Product*
-
+![PreviewSnippet1]()
 * *Code in MarkdownParseTest.java*
 
 * *Corresponding Output*
@@ -21,7 +23,7 @@
 2. **Reviewed Implementation**
 
 * *Preview Product*
-
+![PreviewSnippet1]()
 * *Code in MarkdownParseTest.java*
 
 * *Corresponding Output*
@@ -36,10 +38,10 @@
 
 
 ## Snippet 2:
-1. **Implementation**
+1. **My Implementation**
 
 * *Preview Product*
-
+![PreviewSnippet2]()
 * *Code in MarkdownParseTest.java*
 
 * *Corresponding Output*
@@ -53,7 +55,7 @@
 2. **Reviewed Implementation**
 
 * *Preview Product*
-
+![PreviewSnippet2]()
 * *Code in MarkdownParseTest.java*
 
 * *Corresponding Output*
@@ -65,10 +67,10 @@
 ```
 
 ## Snippet 3:
-1. **Implementation**
+1. **My Implementation**
 
 * *Preview Product*
-
+![PreviewSnippet3]()
 * *Code in MarkdownParseTest.java*
 
 * *Corresponding Output*
@@ -82,7 +84,7 @@
 2. **Reviewed Implementation**
 
 * *Preview Product*
-
+![PreviewSnippet3]()
 * *Code in MarkdownParseTest.java*
 
 * *Corresponding Output*
